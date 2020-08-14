@@ -1,2 +1,2 @@
-# try1
+# sample
 MyFirstTry
